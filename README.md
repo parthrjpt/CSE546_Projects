@@ -1,1 +1,1 @@
-# EAS546_Projects
+# CSE546_Projects
